@@ -10,81 +10,76 @@
 
 <div align="center">
 
-
-
 ![HackerRank](https://img.shields.io/badge/HackerRank-Java%20Basic%20Certified-CAFF3C?style=flat-square&logo=hackerrank&labelColor=060D08)
-
-
-
-
 ![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-8AFF57?style=flat-square&labelColor=060D08)
-
-
 
 </div>
 
-## `> whoami`
+## whoami
 
 Student, self-teaching Java and Data Structures & Algorithms. Trying to get a little better every day.
 
-```bash
-$ cat .profile
+**Profile:**
+- Role: Student
+- Mindset: Trying to be the best, every day
+- Stack: Java
+- Learning: DSA (Arrays, Hashing, Two Pointers, Sliding Window)
+- Building: Student Task Manager (Java console app)
 
-ROLE     =  Student
-MINDSET  =  Trying to be the best, every day
-STACK    =  Java
-LEARNING =  DSA (Arrays, Hashing, Two Pointers, Sliding Window)
-BUILDING =  Student Task Manager (Java console app)
+## Skills
 
+<div align="center">
 
-learning:
-  - Data Structures & Algorithms (arrays, hashing, two pointers, sliding window)
-  - Java OOP fundamentals and clean project structure
+![Java](https://skillicons.dev/icons?i=java&theme=dark)
 
-building:
-  - leetcode-solutions   # DSA practice, organized by technique
-  - Student Task Manager  # Java console app — v1 in-memory, v2 JDBC/MySQL, v3 JavaFX GUI planned
+</div>
 
-mindset:
-  - Consistency over intensity
-  - Understanding over shortcuts
-> ls /projects
-�
-▶ leetcode-solutions — DSA practice, organized by technique
+## Current Focus
+
+**Learning:**
+- Data Structures & Algorithms (arrays, hashing, two pointers, sliding window)
+- Java OOP fundamentals and clean project structure
+
+**Building:**
+- leetcode-solutions — DSA practice, organized by technique
+- Student Task Manager — Java console app (v1 in-memory, v2 JDBC/MySQL, v3 JavaFX GUI planned)
+
+**Mindset:**
+- Consistency over intensity
+- Understanding over shortcuts
+
+## Projects
+
+### leetcode-solutions — DSA practice, organized by technique
+
 Ongoing collection of LeetCode solutions, organized by the core technique each problem demonstrates rather than surface-level data structure.
-Aspect
-Detail
-Stack
-Java
-Organization
-Folders by technique (Hashing, TwoPointers, SlidingWindow, Arrays, Strings)
-Repo
-View
-�
 
-�
-▶ Student Task Manager — Java console app
+| Aspect | Detail |
+| :-- | :-- |
+| Stack | Java |
+| Organization | Folders by technique (Hashing, TwoPointers, SlidingWindow, Arrays, Strings) |
+| Repo | [View](https://github.com/theRatan/leetcode-solutions) |
+
+### Student Task Manager — Java console app
+
 A task management console app built to practice core Java: encapsulation, enums, static fields, and eventually persistence and a GUI.
-Aspect
-Detail
-Stack
-Java (v1) → planned MySQL/JDBC (v2) → JavaFX (v3)
-Concepts
-Encapsulation, enum for task priority, LocalDate, static auto-incrementing IDs
-Status
-In progress
-�
 
-> github-stats
-�
+| Aspect | Detail |
+| :-- | :-- |
+| Stack | Java (v1) -> planned MySQL/JDBC (v2) -> JavaFX (v3) |
+| Concepts | Encapsulation, enum for task priority, LocalDate, static auto-incrementing IDs |
+| Status | In progress |
 
-�
-￼
-�
-￼
-�
+## GitHub Stats
 
-�
-￼ 
+<div align="center">
 
-```
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=theRatan&show_icons=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=theRatan&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C" />
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&section=footer&height=100" />
+</div>
