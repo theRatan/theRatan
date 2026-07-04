@@ -48,3 +48,43 @@ building:
 mindset:
   - Consistency over intensity
   - Understanding over shortcuts
+> ls /projects
+�
+▶ leetcode-solutions — DSA practice, organized by technique
+Ongoing collection of LeetCode solutions, organized by the core technique each problem demonstrates rather than surface-level data structure.
+Aspect
+Detail
+Stack
+Java
+Organization
+Folders by technique (Hashing, TwoPointers, SlidingWindow, Arrays, Strings)
+Repo
+View
+�
+
+�
+▶ Student Task Manager — Java console app
+A task management console app built to practice core Java: encapsulation, enums, static fields, and eventually persistence and a GUI.
+Aspect
+Detail
+Stack
+Java (v1) → planned MySQL/JDBC (v2) → JavaFX (v3)
+Concepts
+Encapsulation, enum for task priority, LocalDate, static auto-incrementing IDs
+Status
+In progress
+�
+
+> github-stats
+�
+
+�
+￼
+�
+￼
+�
+
+�
+￼ 
+
+```
