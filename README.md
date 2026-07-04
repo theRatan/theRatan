@@ -1,10 +1,10 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=theRatan&fontSize=42&desc=Trying+to+be+the+best%2C+every+day&descColor=8AFF57&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=theRatan&fontSize=42&desc=Goal%3A+Be+the+best&descColor=8AFF57&animation=fadeIn" />
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+student%2C+self-taught+Java;%24+mindset+%E2%86%92+trying+to+be+the+best%2C+every+day;%24+focus+%E2%86%92+DSA+%2B+Java+console+apps;%24+status+%E2%86%92+solving+problems%2C+one+day+at+a+time" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+student%2C+self-taught+Java;%24+goal+%E2%86%92+be+the+best;%24+focus+%E2%86%92+DSA+%2B+Java+console+apps;%24+status+%E2%86%92+solving+problems%2C+one+day+at+a+time" />
 
 </div>
 
@@ -21,7 +21,7 @@ Student, self-teaching Java and Data Structures & Algorithms. Trying to get a li
 
 **Profile:**
 - Role: Student
-- Mindset: Trying to be the best, every day
+- Goal: Be the best
 - Stack: Java
 - Learning: DSA (Arrays, Hashing, Two Pointers, Sliding Window)
 - Building: Student Task Manager (Java console app)
@@ -44,7 +44,8 @@ Student, self-teaching Java and Data Structures & Algorithms. Trying to get a li
 - leetcode-solutions — DSA practice, organized by technique
 - Student Task Manager — Java console app (v1 in-memory, v2 JDBC/MySQL, v3 JavaFX GUI planned)
 
-**Mindset:**
+**Goal:**
+- Be the best
 - Consistency over intensity
 - Understanding over shortcuts
 
@@ -83,4 +84,3 @@ A task management console app built to practice core Java: encapsulation, enums,
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&section=footer&height=100" />
 </div>
-
