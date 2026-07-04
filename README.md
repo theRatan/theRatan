@@ -35,3 +35,16 @@ MINDSET  =  Trying to be the best, every day
 STACK    =  Java
 LEARNING =  DSA (Arrays, Hashing, Two Pointers, Sliding Window)
 BUILDING =  Student Task Manager (Java console app)
+
+
+learning:
+  - Data Structures & Algorithms (arrays, hashing, two pointers, sliding window)
+  - Java OOP fundamentals and clean project structure
+
+building:
+  - leetcode-solutions   # DSA practice, organized by technique
+  - Student Task Manager  # Java console app — v1 in-memory, v2 JDBC/MySQL, v3 JavaFX GUI planned
+
+mindset:
+  - Consistency over intensity
+  - Understanding over shortcuts
