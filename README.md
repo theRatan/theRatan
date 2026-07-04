@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+student%2C+self-taught+Java;%24+goal+%E2%86%92+be+the+best;%24+focus+%E2%86%92+DSA+%2B+Java+console+apps;%24+status+%E2%86%92+solving+problems%2C+one+day+at+a+time" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+student%2C+self-taught+Java;%24+goal+%E2%86%92+be+the+best;%24+focus+%E2%86%92+DSA+%2B+Java+Cyber+Security;%24+status+%E2%86%92+solving+problems%2C+one+day+at+a+time" />
 
 </div>
 
