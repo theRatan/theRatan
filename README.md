@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ratan&fontSize=70&fontColor=c9a9ff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%2B%20Software%20Engineering&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://github.com/theRatan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Aspiring+Software+%26+Cybersecurity+Engineer;Self-Taught+Java+%26+Data+Structures;Building+in+Public%2C+One+Commit+at+a+Time;Grinding+DSA%2C+One+Pattern+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Aspiring+Software+%26+Cybersecurity+Engineer;More+Goals+%26+Less+Time;Building+in+Public%2C+One+Commit+at+a+Time;Grinding+DSA%2C+One+Pattern+at+a+Time" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,8 +14,8 @@
 <br/>
 
 <a href="https://github.com/theRatan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=1a1a2e" /></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ratanmahato036@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/theRatan"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -45,7 +45,7 @@ I care about writing code I actually understand, not code that happens to pass. 
 ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python)
 
 **Currently Learning**
-![MySQL](https://skillicons.dev/icons?i=mysql) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
 
 **Tools**
 ![VSCode](https://skillicons.dev/icons?i=vscode) ![IntelliJ](https://skillicons.dev/icons?i=idea)
@@ -168,8 +168,8 @@ open_to:
 
 ### Connect
 
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ratanmahato036@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/theRatan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/theRatan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ---
