@@ -3,12 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ratan&fontSize=70&fontColor=c9a9ff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%2B%20Software%20Engineering&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://github.com/theRatan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Pre-College+%E2%80%A2+B.Tech+Cybersecurity+(Aug+2026);Self-Taught+Java+%26+Data+Structures;Building+in+Public%2C+One+Commit+at+a+Time;Grinding+DSA%2C+One+Pattern+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Aspiring+Software+%26+Cybersecurity+Engineer;Self-Taught+Java+%26+Data+Structures;Building+in+Public%2C+One+Commit+at+a+Time;Grinding+DSA%2C+One+Pattern+at+a+Time" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Status](https://img.shields.io/badge/Status-Incoming%20B.Tech%20Cybersecurity%20Student-8A2BE2?style=flat-square&labelColor=1a1a2e)
+![Status](https://img.shields.io/badge/Status-Pre--College%20%7C%20Aspiring%20Cybersecurity%20Engineer-8A2BE2?style=flat-square&labelColor=1a1a2e)
 ![Location](https://img.shields.io/badge/Focus-Java%20%7C%20DSA%20%7C%20Cybersecurity-6A5ACD?style=flat-square&labelColor=1a1a2e)
 
 <br/>
@@ -29,23 +29,23 @@
 
 ### About Me
 
-I'm a pre-college student starting a **B.Tech in Cybersecurity in August 2026**. Ahead of that, I'm spending this year building real fundamentals instead of waiting for a syllabus to hand them to me — self-teaching **Java** and **Data Structures & Algorithms**, and building actual software rather than just watching tutorials.
+I'm a pre-college student on my way to a **B.Tech in Cybersecurity**. Ahead of that, I'm spending this time building real fundamentals instead of waiting for a syllabus to hand them to me — self-teaching **Java** and **Data Structures & Algorithms**, and building actual software rather than just watching tutorials.
 
 Right now that means two parallel tracks: a structured, technique-organized **LeetCode practice repo**, and a from-scratch **Java console application** (`Student Task Manager`) that I'm scoping in stages — in-memory console app first, then a database-backed version, then a GUI.
 
 I care about writing code I actually understand, not code that happens to pass. I'd rather take a partial hint and struggle through the rest than get handed a full solution.
 
-**Open to:** internship pathways once I'm eligible (2nd year onward), and connecting with anyone else building a portfolio before their degree even starts.
+**Open to:** internship opportunities once I'm eligible, and connecting with anyone else building a portfolio before their degree even starts.
 
 ---
 
 ### Tech Stack
 
 **Languages**
-![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c)
+![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python)
 
 **Currently Learning**
-![Linux](https://skillicons.dev/icons?i=linux) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
+![MySQL](https://skillicons.dev/icons?i=mysql) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
 
 **Tools**
 ![VSCode](https://skillicons.dev/icons?i=vscode) ![IntelliJ](https://skillicons.dev/icons?i=idea)
@@ -95,6 +95,7 @@ Every solution here was written independently after a nudge, not an explanation 
 ### Certifications
 
 ![HackerRank](https://img.shields.io/badge/HackerRank-Java%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+![Deloitte](https://img.shields.io/badge/Deloitte-Cyber%20Job%20Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)
 
 **Planned (in sequence):** Cisco Junior Cybersecurity Analyst Career Path → CCST Cybersecurity → AWS Cloud Practitioner
 
@@ -155,11 +156,11 @@ building:
   - Student Task Manager (Java console → JDBC → JavaFX)
 
 exploring:
-  - Linux fundamentals
-  - Cybersecurity basics (pre-degree groundwork)
+  - Linux basics (just getting started)
+  - Cybersecurity fundamentals (just getting started)
 
 open_to:
-  - Internship pathways (Google STEP / Microsoft Explore, from 2nd year)
+  - Internship opportunities
   - Conversations with other self-directed pre-college builders
 ```
 
