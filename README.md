@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ratan&fontSize=70&fontColor=c9a9ff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%2B%20Software%20Engineering&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=theRatan&fontSize=70&fontColor=c9a9ff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%2B%20Software%20Engineering&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://github.com/theRatan">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Aspiring+Software+%26+Cybersecurity+Engineer;More+Goals+%26+Less+Time;Building+in+Public%2C+One+Commit+at+a+Time;Grinding+DSA%2C+One+Pattern+at+a+Time" alt="Typing SVG" />
