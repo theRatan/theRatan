@@ -161,7 +161,7 @@ exploring:
 
 open_to:
   - Internship opportunities
-  - Conversations with other self-directed pre-college builders
+  - Conversations with other self-directed college builders
 ```
 
 ---
