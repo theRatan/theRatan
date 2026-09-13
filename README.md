@@ -8,7 +8,7 @@
 
 <br/>
 
-![Status](https://img.shields.io/badge/Status-Pre--College%20%7C%20Aspiring%20Cybersecurity%20Engineer-8A2BE2?style=flat-square&labelColor=1a1a2e)
+![Status](https://img.shields.io/badge/Status-College%20%7C%20Aspiring%20Cybersecurity%20Engineer-8A2BE2?style=flat-square&labelColor=1a1a2e)
 ![Location](https://img.shields.io/badge/Focus-Java%20%7C%20DSA%20%7C%20Cybersecurity-6A5ACD?style=flat-square&labelColor=1a1a2e)
 
 <br/>
