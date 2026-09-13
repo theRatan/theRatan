@@ -29,7 +29,7 @@
 
 ### About Me
 
-I'm a pre-college student on my way to a **B.Tech in Cybersecurity**. Ahead of that, I'm spending this time building real fundamentals instead of waiting for a syllabus to hand them to me — self-teaching **Java** and **Data Structures & Algorithms**, and building actual software rather than just watching tutorials.
+I'm a college student on my way to a **B.Tech in CSE Cybersecurity**. Ahead of that, I'm spending this time building real fundamentals instead of waiting for a syllabus to hand them to me — self-teaching **Java** and **Data Structures & Algorithms**, and building actual software rather than just watching tutorials.
 
 Right now that means two parallel tracks: a structured, technique-organized **LeetCode practice repo**, and a from-scratch **Java console application** (`Student Task Manager`) that I'm scoping in stages — in-memory console app first, then a database-backed version, then a GUI.
 
